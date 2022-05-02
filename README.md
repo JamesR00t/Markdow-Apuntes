@@ -1,3 +1,15 @@
+<!-- Cabecera de Metadatos-->
+
+---
+title: "Sintaxis Markdown"
+
+autor: "James Root"
+
+date: "2022/02/05"
+
+---
+
+
 <!-- Este es un comentario-->
 # Titulo 1
 ## Titulo 2
@@ -5,6 +17,9 @@
 #### Titulo 4
 ##### Titulo 5
 ###### Titutlo 6
+
+
+
 
 <!--Tipos de texto-->
 This is an *italic* text utilizando un asterisco antes y despues de la palabra un * cursivo.
